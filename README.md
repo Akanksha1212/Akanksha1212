@@ -2,6 +2,8 @@
 [![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akankshasingh121224)
 [![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/akacodegenie)
 [![medium badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=medium)](https://medium.com/@akankshasingh121)
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Akanksha1212 /> </p>
+
 
 ### Hi there 👋
 - 🔭 I’m currently working on Flutter projects
