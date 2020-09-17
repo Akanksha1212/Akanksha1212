@@ -11,4 +11,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Twitter - @Akacodegenie
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a quizzer. Find my quiz qustions on my [quiz blog](https://curiouscuriequiz.wordpress.com/category/quiz-sets/) and [Instagram](https://www.instagram.com/p/BrVMaJrBOBF/)
+- ⚡ Fun fact: I am a quizzer. Find my quiz questions on my [quiz blog](https://curiouscuriequiz.wordpress.com/category/quiz-sets/) and [Instagram](https://www.instagram.com/p/BrVMaJrBOBF/)
