@@ -8,6 +8,7 @@ Hi there 👋
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 💬 Ask me about anything
+- 👩‍💻 I'm a hackathon aficionado. Find my hackathon projects [here](https://devpost.com/coderjedi) 
 - 📫 How to reach me: Twitter - @Akacodegenie
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a quizzer. Find my quiz questions on my [quiz blog](https://curiouscuriequiz.wordpress.com/category/quiz-sets/) and [Instagram](https://www.instagram.com/p/BrVMaJrBOBF/)
+- ⚡ Fun fact: I am a quizzer. Find my quiz questions on my [quiz blog](https://curiouscuriequiz.wordpress.com/category/quiz-sets/) and [Instagram](https://www.instagram.com/p/BrVMaJrBOBF/) 
