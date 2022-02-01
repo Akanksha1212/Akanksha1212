@@ -1,6 +1,6 @@
 
 [![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akanksha1212/)
-[![twitter badge](https://img.shields.io/badge/@akacodegenie-30302f?style=flat&logo=twitter)](https://twitter.com/akacodegenie)
+[![twitter badge](https://img.shields.io/badge/@coder_jedi-30302f?style=flat&logo=twitter)](https://twitter.com/coder_jedi)
 [![medium badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=medium)](https://coderjedi.medium.com/)
 
 Hi there 👋
