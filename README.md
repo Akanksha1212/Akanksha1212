@@ -24,15 +24,15 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
+
+<!-- [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube] -->
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/php.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/xcode.png"/>
 
 
-
-<br />
-<br />
 
 ---
 
