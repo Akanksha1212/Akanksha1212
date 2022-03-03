@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCeUy3yILRwCCj3BMcaiSBcA">Akanksha Singh!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw">Akanksha Singh!</a></h1>
 <h3 align="center">Flutter Dev | Hackathon Aficionado </h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=AkankshaSingh&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
@@ -38,14 +38,14 @@
 - [Hitchhiker's Guide to Hackathons Ep:0](https://www.youtube.com/watch?v=KOlZNWXv7z8&ab_channel=AkankshaSingh)
 <!-- YOUTUBE:END -->
 
-➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCeUy3yILRwCCj3BMcaiSBcA/videos)
+➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos)
 
 ---
 
 
 [website]: https://akanksha1212.github.io/
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoder_jedi&screen_name=coder_jedi
-[youtube]: https://www.youtube.com/channel/UCeUy3yILRwCCj3BMcaiSBcA?sub_confirmation=1
+[youtube]: https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw?sub_confirmation=1
 [linkedin]: https://linkedin.com/in/Akanksha1212
 [github]: https://github.com/Akanksha1212
 [instagram]: https://www.instagram.com/akankshasingh1212
