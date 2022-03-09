@@ -35,7 +35,7 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hitchhiker's Guide to Hackathons Ep:0](https://www.youtube.com/watch?v=KOlZNWXv7z8&ab_channel=AkankshaSingh)
+- [Hitchhiker's Guide to Hackathons Ep:0](https://youtu.be/0VH4pKGHgc0)
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos)
