@@ -47,7 +47,7 @@
 ---
 
 <p align="left">
-<details><summary> 👩🏻‍💻  Mentor/Judge/Organizer Experience ⏬</summary>
+<details><summary> <h3>👩🏻‍💻Mentor/Judge/Organizer Experience ⏬</h3>  </summary>
 <p>
   
 **Organizer**
@@ -68,11 +68,10 @@
 - BridgeHacks
 - TechTogether Hackathons
 and many more...
-
+  
 </p>
 </details>
-
-<details><summary> 💫 Communities that I am/was involved in ⏬</summary> 
+<details><summary> <H3>💫 Communities that I am/was involved in ⏬</H3></summary> 
 <p>
   
 - Circle Manager Flutter Circle, Google Developers Student Club IGDTUW (Sep 2021-Present)
@@ -83,9 +82,7 @@ and many more...
   
 </p>
 </details>
-
-
-<details><summary> 🏆  Hackathons that I've Won ⏬</summary> 
+<details><summary> <H3>🏆  Hackathons that I've Won ⏬</H3></summary> 
 <p>
 
   | **Year** | **Position / Award** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation)** |
@@ -120,11 +117,9 @@ and many more...
 
 </p>
 </details>
-
-  <details><summary> 🎤 Talks/Workshops ⏬</summary> 
+<details><summary> <H3>🎤 Talks/Workshops ⏬</H3></summary> 
 <p>
   
-
 ## 2022
 
 | Topic                                                                 | Event                                   | Month     | Slides |
